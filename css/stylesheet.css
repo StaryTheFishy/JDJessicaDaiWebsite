@@ -496,7 +496,10 @@ nav {
   }
 
   .work-display-z,
-  .work-display-b {
+  .work-display-b,
+    .work-display-sg,
+  .work-display-ad,
+  .work-display-il{
     background-color: #782D8E;
     padding-top: 2rem;
     padding-bottom: 2rem;
